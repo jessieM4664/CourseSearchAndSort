@@ -1,1 +1,1 @@
-# CourseSearchAndSort
+# Searches courses by grade
