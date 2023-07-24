@@ -1,3 +1,5 @@
+### Search and sort courses by course grade
+
 After unzipping the project...
 
 In the project directory, you can run:
