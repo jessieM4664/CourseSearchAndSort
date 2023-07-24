@@ -1,4 +1,4 @@
-### Search and sort courses by course grade
+### `Search and sort courses by course grade`
 
 After unzipping the project...
 
